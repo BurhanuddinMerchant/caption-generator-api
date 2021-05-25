@@ -6,7 +6,7 @@ install https://pjreddie.com/media/files/yolov3.weights in the root of the proje
 
 install dependencies (setup a virtual env )
 
-install up a virtual environment
+install a virtual environment
 
 ```
  py -m pip install --user virtualenv
