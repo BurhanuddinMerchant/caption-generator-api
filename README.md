@@ -15,13 +15,13 @@ install a virtual environment
 setting up a virtual environments
 
 ```
- py -m pip install --user virtualenv
+ py -m venv venv
 ```
 
 activate a virtual environment
 
 ```
- py -m venv venv
+ ./venv/Scripts/activate
 ```
 
 deactivate
